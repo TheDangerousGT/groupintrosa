@@ -147,6 +147,10 @@ h5, .h05, h6, .h06 {
 	margin-bottom: 1.2rem;
 }
 
+.mailto{
+	color: #151515; 
+}
+
 h1, .h01 {
 	font-size: 3.1rem;
 	line-height: 1.35;
